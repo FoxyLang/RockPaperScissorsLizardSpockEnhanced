@@ -1,4 +1,12 @@
 import java.util.*;
+/*
+ * RockPaperScissorsLizardSpockEnhanced.java
+ * Author: FoxyLang
+ * 
+ * This game will allow you to play against the computer with a potentially 
+ * infinite set of hand types for a game of "Rock Paper Scissors."
+ * 
+ */
 
 
 public class RockPaperScissorLizardSpockEnhanced {
